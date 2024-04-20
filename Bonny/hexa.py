@@ -11,7 +11,7 @@ for i in range(6):
     t.left(60)
     t.forward(100)
     t.left(120)
-    t.forward(10)
+    t.forward(100)
     t.left(120)
 
 t.end_fill()
